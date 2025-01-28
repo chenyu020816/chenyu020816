@@ -10,12 +10,24 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 *Research Assistant Jul 2023 – Present*
 ## 🎓 Repo
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=TSDC-Online-Resource-Website)](https://github.com/chenyu020816/TSDC-Online-Resource-Website.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=PedestrianTracking_Visualization)](https://github.com/chenyu020816/PedestrianTracking_Visualization.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-Project)](https://github.com/chenyu020816/UnmannedShop-Project.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BU-Spark&repo=ds-wgbh-bus-equity)](https://github.com/chenyu020816/ds-wgbh-bus-equity.git)
 ## 📚 Education
 - **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
 - **Bachelor of Statistics**, Tamkang University (2020 - 2024)
 
 ## 📝 Publications
-
+ QGIS-Plugin-DynamicFlow
+ 
 ## 💻 Tech Stack
 
 - **Programming Language**
@@ -26,7 +38,7 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 [![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#) [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=fff)](#) [![Cuda](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 - **Tools** 
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ](#)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu020816&layout=compact&langs_count=8)
