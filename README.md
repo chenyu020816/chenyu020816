@@ -1,10 +1,13 @@
 ## Hi there 👋
+I'm Erioe Liu, a Master's student in Data Science at Boston University. My research interests are focused on computer vision and deep learning, with a passion for building innovative solutions to complex problems.
 
+I'm actively seeking research opportunities and collaborations in Deep Learning, Computer Vision, and related fields. Feel free to connect or reach out if you're interested in working together!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/chen-yu-liu-74b879245/)](https://www.linkedin.com/in/chen-yu-liu-74b879245/)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/chenyu020816)](https://github.com/chenyu020816)[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:chenyu20020816@gmail.com)](mailto:chenyu20020816@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/chen-yu-liu-74b879245/)](https://www.linkedin.com/in/chen-yu-liu-74b879245/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/chenyu020816)](https://github.com/chenyu020816) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:chenyu20020816@gmail.com)](mailto:chenyu20020816@gmail.com)
 
 ## 👨🏻‍🔬 Research Experiences
-
+- **Center of GIS, RCHSS, Academia Sinica Taipei, Taiwan**
+*Research Assistant Jul 2023 – Present*
 ## 🎓 Repo
 
 ## 📚 Education
