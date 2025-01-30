@@ -6,21 +6,39 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/chen-yu-liu-74b879245/)](https://www.linkedin.com/in/chen-yu-liu-74b879245/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/chenyu020816)](https://github.com/chenyu020816) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:chenyu20020816@gmail.com)](mailto:chenyu20020816@gmail.com)
 
 ## 👨🏻‍🔬 Research Experiences
-- **Center of GIS, RCHSS, Academia Sinica Taipei, Taiwan**
-*Research Assistant Jul 2023 – Present*
+- **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
+    *Research Assistant Jul 2023 – Present*
 ## 🎓 Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=TSDC-Online-Resource-Website)](https://github.com/chenyu020816/TSDC-Online-Resource-Website.git)
+- **Online Educational Resources Recommendation Website (TSDC Hackathon 1st place) @ Taiwan**
+  - Managed 3 teams of 5+ students on client projects, ensuring client satisfaction, project progress, and technical support.
+  - Investigated Massachusetts court database (5 tables, millions of rows) using SQL, applying advanced querying techniques to extract student debt-related cases without clear indicators, supporting GBH’s social justice news efforts.
+  - Developed an interactive Looker Studio dashboard for non-technical clients, enabling easy data filtering by year, court type, and plaintiff party, while managing and intaining GitHub repositories for usability and data integrity. <br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=PedestrianTracking_Visualization)](https://github.com/chenyu020816/PedestrianTracking_Visualization.git)
+- **Project**
+    - a
+    - b
+    - c  <br>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=PedestrianTracking_Visualization)](https://github.com/chenyu020816/PedestrianTracking_Visualization.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git)
+- **Project**
+    - a
+    - b
+    - c <br>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins-GWR-GTWR-GWQR)](https://github.com/chenyu020816/QGIS-Plugins-GWR-GTWR-GWQRs.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
+- **Unmanned Stores Using Deep Learning Image Recognition Model**
+    - a
+    - b
+    - c  <br>   
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-Project)](https://github.com/chenyu020816/UnmannedShop-Project.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-Project)](https://github.com/chenyu020816/UnmannedShop-Project.git)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BU-Spark&repo=ds-wgbh-bus-equity)](https://github.com/chenyu020816/ds-wgbh-bus-equity.git)
+- **Project**
+    - a
+    - b
+    - c <br>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BU-Spark&repo=ds-wgbh-bus-equity)](https://github.com/chenyu020816/ds-wgbh-bus-equity.git)
 ## 📚 Education
 - **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
 - **Bachelor of Statistics**, Tamkang University (2020 - 2024)
