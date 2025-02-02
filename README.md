@@ -16,7 +16,7 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
   - Developed an interactive Looker Studio dashboard for non-technical clients, enabling easy data filtering by year, court type, and plaintiff party, while managing and intaining GitHub repositories for usability and data integrity. <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
 
-- **Project**
+- **QGIS Plusings (Dynamic Flow, GWR, GTWR, GWQR)**
     - a
     - b
     - c  <br>
@@ -26,13 +26,13 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
     - a
     - b
     - c <br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins-GWR-GTWR-GWQR)](https://github.com/chenyu020816/QGIS-Plugins-GWR-GTWR-GWQRs.git)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins-GWR-GTWR-GWQR)](https://github.com/chenyu020816/QGIS-Plugins-GWR-GTWR-GWQR.git)
 
-- **Unmanned Stores Using Deep Learning Image Recognition Model**
+- **Unmanned Stores Using Deep Learning Object Detection Model**
     - a
     - b
     - c  <br>   
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-Project)](https://github.com/chenyu020816/UnmannedShop-Project.git)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-ObjectDetection)](https://github.com/chenyu020816/UnmannedShop-ObjectDetection.git)
 
 - **Project**
     - a
