@@ -14,23 +14,23 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 - **Online Educational Resources Recommendation Website (TSDC Hackathon 1st place) @ Taiwan**
   - Developed a website to help users find suitable learning resources. Users can search for keywords, which will be used to generate a roadmap using OpenAI API. Then the website recommends relevant open online resources and allows user reviews and feedbacks.
   - Built the website using React and designed a database system. Used OpenAI API to generate the roadmap from user
-  keywords and designed a recommendation algorithm considering course relevance and user reviews. 
+  keywords and designed a recommendation algorithm considering course relevance and user reviews. <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
 
 - **Pedestrian Movement Visualization System**
     - Develop an interface that can capture images in real-time through external cameras or by uploading videos. On the backend, use MOT (Multiple Object Tracking) to detect and track pedestrian movements, and visualize and count them based on their direction.
-    - Built the interface using Tkinter. Used an improved YOLOv8 model and ByteTrack algorithms for pedestrian detection and movement tracking. 
+    - Built the interface using Tkinter. Used an improved YOLOv8 model and ByteTrack algorithms for pedestrian detection and movement tracking.  <br>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Pedestrian_Tracking_Visualization)](https://github.com/chenyu020816/Pedestrian_Tracking_Visualization.git)
 
 - **Unmanned Stores Using Deep Learning Object Detection Model**
     - Utilized a YOLO-based object detection model to recognize multiple products simultaneously, enhancing efficiency and eliminating the need for barcode scanning.
-    - Developed a demonstration interface using Tkinter for seamless user interaction and functionality showcase.
+    - Developed a demonstration interface using Tkinter for seamless user interaction and functionality showcase. <br>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-ObjectDetection)](https://github.com/chenyu020816/UnmannedShop-ObjectDetection.git)
 
 - **QGIS Plusings (Dynamic Flow, GWR, GTWR, GWQR)**
     - Developed 3D Gradient Approach, GWR, GTWR, and GWQR algorithms as QGIS software Plugins.
     - The Gradient Approach Plugin [Dynamic Flow](https://plugins.qgis.org/plugins/dynamic_flow/) in QGIS has over 1k downloads.
-    - Users do not need to write their own Python or R scripts, allowing them to execute geospatial analysis within QGIS. This also made it easier to share and use these algorithms. 
+    - Users do not need to write their own Python or R scripts, allowing them to execute geospatial analysis within QGIS. This also made it easier to share and use these algorithms. <br>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
 
