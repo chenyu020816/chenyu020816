@@ -16,17 +16,11 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
   - Developed an interactive Looker Studio dashboard for non-technical clients, enabling easy data filtering by year, court type, and plaintiff party, while managing and intaining GitHub repositories for usability and data integrity. <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
 
-- **QGIS Plusings (Dynamic Flow, GWR, GTWR, GWQR)**
+- **dsf**
     - a
     - b
     - c  <br>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=PedestrianTracking_Visualization)](https://github.com/chenyu020816/PedestrianTracking_Visualization.git)
-
-- **Project**
-    - a
-    - b
-    - c <br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins-GWR-GTWR-GWQR)](https://github.com/chenyu020816/QGIS-Plugins-GWR-GTWR-GWQR.git)
 
 - **Unmanned Stores Using Deep Learning Object Detection Model**
     - a
@@ -34,17 +28,20 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
     - c  <br>   
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-ObjectDetection)](https://github.com/chenyu020816/UnmannedShop-ObjectDetection.git)
 
-- **Project**
+- **QGIS Plusings (Dynamic Flow, GWR, GTWR, GWQR)**
     - a
     - b
     - c <br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BU-Spark&repo=ds-wgbh-bus-equity)](https://github.com/chenyu020816/ds-wgbh-bus-equity.git)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) 
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
+
 ## 📚 Education
 - **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
 - **Bachelor of Statistics**, Tamkang University (2020 - 2024)
 
+<!---
 ## 📝 Publications
- QGIS-Plugin-DynamicFlow
+--->
  
 ## 💻 Tech Stack
 
