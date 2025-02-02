@@ -8,30 +8,29 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 ## 👨🏻‍🔬 Research Experiences
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
     *Research Assistant Jul 2023 – Present*
+
 ## 🎓 Repo
 
 - **Online Educational Resources Recommendation Website (TSDC Hackathon 1st place) @ Taiwan**
-  - Managed 3 teams of 5+ students on client projects, ensuring client satisfaction, project progress, and technical support.
-  - Investigated Massachusetts court database (5 tables, millions of rows) using SQL, applying advanced querying techniques to extract student debt-related cases without clear indicators, supporting GBH’s social justice news efforts.
-  - Developed an interactive Looker Studio dashboard for non-technical clients, enabling easy data filtering by year, court type, and plaintiff party, while managing and intaining GitHub repositories for usability and data integrity. <br>
+  - Developed a website to help users find suitable learning resources. Users can search for keywords, which will be used to generate a roadmap using OpenAI API. Then the website recommends relevant open online resources and allows user reviews and feedbacks.
+  - Built the website using React and designed a database system. Used OpenAI API to generate the roadmap from user
+  keywords and designed a recommendation algorithm considering course relevance and user reviews. 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
 
-- **dsf**
-    - a
-    - b
-    - c  <br>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=PedestrianTracking_Visualization)](https://github.com/chenyu020816/PedestrianTracking_Visualization.git)
+- **Pedestrian Movement Visualization System**
+    - Develop an interface that can capture images in real-time through external cameras or by uploading videos. On the backend, use MOT (Multiple Object Tracking) to detect and track pedestrian movements, and visualize and count them based on their direction.
+    - Built the interface using Tkinter. Used an improved YOLOv8 model and ByteTrack algorithms for pedestrian detection and movement tracking. 
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Pedestrian_Tracking_Visualization)](https://github.com/chenyu020816/Pedestrian_Tracking_Visualization.git)
 
 - **Unmanned Stores Using Deep Learning Object Detection Model**
-    - a
-    - b
-    - c  <br>   
+    - Utilized a YOLO-based object detection model to recognize multiple products simultaneously, enhancing efficiency and eliminating the need for barcode scanning.
+    - Developed a demonstration interface using Tkinter for seamless user interaction and functionality showcase.
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=UnmannedShop-ObjectDetection)](https://github.com/chenyu020816/UnmannedShop-ObjectDetection.git)
 
 - **QGIS Plusings (Dynamic Flow, GWR, GTWR, GWQR)**
-    - a
-    - b
-    - c <br>
+    - Developed 3D Gradient Approach, GWR, GTWR, and GWQR algorithms as QGIS software Plugins.
+    - The Gradient Approach Plugin [Dynamic Flow](https://plugins.qgis.org/plugins/dynamic_flow/) in QGIS has over 1k downloads.
+    - Users do not need to write their own Python or R scripts, allowing them to execute geospatial analysis within QGIS. This also made it easier to share and use these algorithms. 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
 
