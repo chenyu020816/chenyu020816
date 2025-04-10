@@ -7,12 +7,12 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 
 ## 👨🏻‍🔬 Research Experiences
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
-    *Research Assistant Jul 2023 – Present*
+    *Research Assistant Jul 2023 – Jun 2025
 
 ## 🎓 Repo
 
 - **Online Educational Resources Recommendation Website (TSDC Hackathon 1st place) @ Taiwan**
-  - Developed a website to help users find suitable learning resources. Users can search for keywords, which will be used to generate a roadmap using OpenAI API. Then the website recommends relevant open online resources and allows user reviews and feedbacks.
+  - Developed a website to help users find suitable learning resources. Users can search for keywords, which will be used to generate a roadmap using OpenAI API. Then, the website recommends relevant open online resources and allows user reviews and feedback.
   - Built the website using React and designed a database system. Used OpenAI API to generate the roadmap from user
   keywords and designed a recommendation algorithm considering course relevance and user reviews. <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=Edu-Resources-Recommend-Website)](https://github.com/chenyu020816/Edu-Resources-Recommend-Website.git)
