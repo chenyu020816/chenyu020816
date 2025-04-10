@@ -7,7 +7,7 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 
 ## 👨🏻‍🔬 Research Experiences
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
-    *Research Assistant Jul 2023 – Jun 2025
+    Research Assistant Jul 2023 – Jun 2025
 
 ## 🎓 Repo
 
