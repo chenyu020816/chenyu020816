@@ -7,7 +7,7 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 
 ## 👨🏻‍🔬 Research Experiences
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
-    Research Assistant Jul 2023 – Jun 2025
+    Research Assistant Jul 2023 – Dec 2025
 
 ## 🎓 Repo
 
@@ -35,8 +35,8 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
 
 ## 📚 Education
-- **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
-- **Bachelor of Statistics**, Tamkang University (2020 - 2024)
+- **Master of Science in Data Science**, Boston University (Aug 2024 - Dec 2025)<br>
+- **Bachelor of Statistics**, Tamkang University (Aug 2020 - Jun 2024)
 
 <!---
 ## 📝 Publications
