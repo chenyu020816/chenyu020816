@@ -4,12 +4,11 @@ I'm Erioe Liu, a Master's student in Data Science at Boston University. My resea
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/chen-yu-liu-74b879245/)](https://www.linkedin.com/in/chen-yu-liu-74b879245/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/chenyu020816)](https://github.com/chenyu020816) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:chenyu20020816@gmail.com)](mailto:chenyu20020816@gmail.com)
 
 ## 👨🏻‍🔬 Research Experiences
-- **Institute of Information Science, Academia Sinica @ Taipei, Taiwan**
-    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present)
-  
+- **Institute of Information Science, Academia Sinica @ Taipei, Taiwan** <br>
+    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present) <br>
     Research Topic: Research Topic: Consistent World Model, Driving World Model, Video Editing, Generative Models (CMs, Flow Matching)
   
-- **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
+- **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan** <br>
     Research Assistant Jul 2023 – Dec 2025
 
 
