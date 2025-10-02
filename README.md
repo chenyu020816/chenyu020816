@@ -5,10 +5,23 @@ I'm Erioe Liu, a Master's student in Data Science at Boston University. My resea
 
 ## 👨🏻‍🔬 Research Experiences
 - **Institute of Information Science, Academia Sinica @ Taipei, Taiwan**
-    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present) \\
+    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present)
+  
     Research Topic: Research Topic: Consistent World Model, Driving World Model, Video Editing, Generative Models (CMs, Flow Matching)
+  
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
     Research Assistant Jul 2023 – Dec 2025
+
+
+## 📚 Education
+- **Master of Science in Data Science**, Boston University (Aug 2024 - Dec 2025)<br>
+- **Bachelor of Statistics**, Tamkang University (Aug 2020 - Jun 2024)
+
+
+## 📝 Publications
+- Pi-Ling Pai, **Chan-Yu Liu**, Chiao-Ling Kuo, Ta-Chien Chan *"Application of Deep Learning for Symbol Detection on Historical Maps to Explore Spatiotemporal Changes in the Regional Tea Industry of Early 20th-Century Taiwan"*  (Digital Scholarship in the Humanities, 2025) 
+- Hung-Ling Huang, Jia-Hong Tang, **Chen-Yu Liu**, Chau-Chyun Sheu, Ta-Chien Chan *"Effect of Urban Greenness and Air Pollution on Asthma Visits Among Children and Adolescents in an Industrial and Non-Industrial City"*  (underviewed)
+
 
 ## 🎓 Repo
 
@@ -34,15 +47,6 @@ I'm Erioe Liu, a Master's student in Data Science at Boston University. My resea
     - Users do not need to write their own Python or R scripts, allowing them to execute geospatial analysis within QGIS. This also made it easier to share and use these algorithms. <br>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugin-DynamicFlow)](https://github.com/chenyu020816/QGIS-Plugin-DynamicFlow.git) 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenyu020816&repo=QGIS-Plugins)](https://github.com/chenyu020816/QGIS-Plugins.git)
-
-## 📚 Education
-- **Master of Science in Data Science**, Boston University (Aug 2024 - Dec 2025)<br>
-- **Bachelor of Statistics**, Tamkang University (Aug 2020 - Jun 2024)
-
-
-## 📝 Publications
-- Pi-Ling Pai, **Chan-Yu Liu**, Chiao-Ling Kuo, Ta-Chien Chan "Application of Deep Learning for Symbol Detection on Historical Maps to Explore Spatiotemporal Changes in the Regional Tea Industry of Early 20th-Century Taiwan"  (Digital Scholarship in the Humanities, 2025) 
-- Hung-Ling Huang, Jia-Hong Tang, Chen-Yu Liu, Chau-Chyun Sheu, Ta-Chien Chan "Effect of Urban Greenness and Air Pollution on Asthma Visits Among Children and Adolescents in an Industrial and Non-Industrial City"  (underviewed)
  
 ## 💻 Tech Stack
 
