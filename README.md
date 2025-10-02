@@ -1,11 +1,12 @@
 ## Hi there 👋
-I'm Erioe Liu, a Master's student in Data Science at Boston University. My research interests are focused on computer vision and deep learning, with a passion for building innovative solutions to complex problems.
-
-I'm actively seeking research opportunities and collaborations in Deep Learning, Computer Vision, and related fields. Feel free to connect or reach out if you're interested in working together!
+I'm Erioe Liu, a Master's student in Data Science at Boston University. My research interests are focused on World Model and Generative Models, with a passion for building innovative solutions to complex problems.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/chen-yu-liu-74b879245/)](https://www.linkedin.com/in/chen-yu-liu-74b879245/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/chenyu020816)](https://github.com/chenyu020816) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:chenyu20020816@gmail.com)](mailto:chenyu20020816@gmail.com)
 
 ## 👨🏻‍🔬 Research Experiences
+- **Institute of Information Science, Academia Sinica @ Taipei, Taiwan**
+    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present)
+    Research Topic: Research Topic: Consistent World Model, Driving World Model, Video Editing, Generative Models (CMs, Flow Matching)
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
     Research Assistant Jul 2023 – Dec 2025
 
@@ -38,9 +39,10 @@ I'm actively seeking research opportunities and collaborations in Deep Learning,
 - **Master of Science in Data Science**, Boston University (Aug 2024 - Dec 2025)<br>
 - **Bachelor of Statistics**, Tamkang University (Aug 2020 - Jun 2024)
 
-<!---
+
 ## 📝 Publications
---->
+- Pi-Ling Pai, **Chan-Yu Liu**, Chiao-Ling Kuo, Ta-Chien Chan "Application of Deep Learning for Symbol Detection on Historical Maps to Explore Spatiotemporal Changes in the Regional Tea Industry of Early 20th-Century Taiwan"  (Digital Scholarship in the Humanities, 2025) 
+- Hung-Ling Huang, Jia-Hong Tang, Chen-Yu Liu, Chau-Chyun Sheu, Ta-Chien Chan "Effect of Urban Greenness and Air Pollution on Asthma Visits Among Children and Adolescents in an Industrial and Non-Industrial City"  (underviewed)
  
 ## 💻 Tech Stack
 
