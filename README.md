@@ -5,7 +5,7 @@ I'm Erioe Liu, a Master's student in Data Science at Boston University. My resea
 
 ## 👨🏻‍🔬 Research Experiences
 - **Institute of Information Science, Academia Sinica @ Taipei, Taiwan**
-    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present)
+    Research Intern, advised by [Dr. Chien Yao, Wang](https://scholar.google.com.tw/citations?hl=en&user=DkQh4M4AAAAJ&view_op=list_works&sortby=pubdate)  (Jul 2025 – present) \\
     Research Topic: Research Topic: Consistent World Model, Driving World Model, Video Editing, Generative Models (CMs, Flow Matching)
 - **Center of GIS, RCHSS, Academia Sinica @ Taipei, Taiwan**
     Research Assistant Jul 2023 – Dec 2025
